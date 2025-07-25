@@ -1,4 +1,4 @@
-package example.org;
+package org.example;
 
 public class StatsWithLoops {
 
